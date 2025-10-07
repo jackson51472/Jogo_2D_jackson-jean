@@ -40,6 +40,7 @@ main.js
 dupla-sobrenome1-sobrenome2-tema
 
 Exemplo: `dupla-oliveira-gomes-asteroides`
+
 3. Desenvolva o jogo seguindo os requisitos e orientações.  
 4. Abra um **Pull Request (PR)** para este repositório até a data limite.  
 5. Envie o **relatório técnico** no Canvas.
